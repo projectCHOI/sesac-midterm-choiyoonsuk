@@ -1,7 +1,9 @@
 const { Todo } = require("../models/index");
 
 /* Todos 전체 목록 불러오기 */
-exports.readAll = async (req, res) => {};
+exports.readAll = async (req, res) => {
+  "http://localhost:8080/";
+};
 
 /* Todo 한 개 불러오기 */
 exports.readOne = async (req, res) => {};
