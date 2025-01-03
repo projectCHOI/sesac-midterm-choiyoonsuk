@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "user_23",
-    "password": "codingon_23",
-    "database": "db_23",
+    "username": "user_24",
+    "password": "codingon_24",
+    "database": "db_24",
     "host": "sesac-evaluation.cn6ww0owo0vr.ap-northeast-2.rds.amazonaws.com",
     "dialect": "mysql"
   }
